@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    margin-top: 60%;
+    /* margin-left: 35%; */
+    font-size: 76px;
+    font-weight: bold;
+    color: orange;
+    font-family: serif;
+    border: none;
+    padding: 0%;
+    display: inline-block;
+}
+
+#logo{
+    margin-left: 12%;
+    margin-top: 32%;
+}
+
+body{
+
+    background-color: black;
+}
+
+body{
+    font-family: 'Love Ya Like A Sister', serif !important;
+}
+
+header{
+
+ text-align: center;
+ height: 240px;
+ padding: 35px 0 0;
+ background-color: #e82535;
+
+}
+
+.container{
+    text-align: center;
+   margin-top: 30%;
+}
+
+#style{
+    width: 450px; 
+    height: 350px;
+}
+
+.panel{
+    height: 522px;
+}
+
+h4{
+    font-size: 4.5rem;
+   height: 150px;
+   margin-top: 30px;
+}
+
+footer{
+ background: #e82535;
+ height: 180px;
+}
+
+
